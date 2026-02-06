@@ -1,6 +1,7 @@
+![Android CI](https://github.com/ralph-peelen-prive/MyGuardian/actions/workflows/android-ci.yml/badge.svg)
 # MyGuardian
 
-MyGuardian is een privacy-first veiligheidsapp.
+MyGuardian is een veiligheidsapp.
 De gebruiker kan eenvoudig aangeven of hij/zij **veilig**, **ongemakkelijk** of **onveilig** is,
 en vertrouwde contacten worden alleen geïnformeerd wanneer dat nodig is.
 
